@@ -6,6 +6,8 @@ public class EventoDeportivo extends Evento{
 	public String setTipoEvento() {
 		this.tipoEvento = "Deportivo";
 		return null;
+		
+		
 	}
 
 }

@@ -21,6 +21,5 @@ public abstract class Evento {
 	
 	
 	
-	
 	public abstract String setTipoEvento();
 }

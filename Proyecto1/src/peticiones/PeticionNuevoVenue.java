@@ -1,5 +1,5 @@
 package peticiones;
-import venue.Venue;
+import eventos.Venue;
 
 public class PeticionNuevoVenue extends Peticion{
 

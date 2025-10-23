@@ -5,7 +5,6 @@ import java.time.LocalTime;
 import java.util.TreeMap;
 
 import usuarios.Organizador;
-import venue.Venue;
 
 public abstract class Evento {
 	

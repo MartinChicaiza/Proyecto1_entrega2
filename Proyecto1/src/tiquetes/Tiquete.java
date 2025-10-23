@@ -23,8 +23,5 @@ public abstract class Tiquete {
 		this.isContained = isContained;
 		this.type = type;
 	}
-	
-	
-	
 
 }
